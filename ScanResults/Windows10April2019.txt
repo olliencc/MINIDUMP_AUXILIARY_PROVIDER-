@@ -1,0 +1,16 @@
+C:/Program Files/dotnet\shared\Microsoft.NETCore.App\2.0.9\coreclr.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files/dotnet\shared\Microsoft.NETCore.App\2.1.9\coreclr.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.3\tools\csc\mrt150.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.3\tools\arm\ilc\mrt150.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.3\tools\arm\ilc\Lib\Runtime\mrt100_app.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.3\tools\arm\ilc\Lib\Runtime\mrt150.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.3\tools\arm64\ilc\mrt150.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.3\tools\arm64\ilc\Lib\Runtime\mrt100_app.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.3\tools\arm64\ilc\Lib\Runtime\mrt150.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.3\tools\x64\ilc\mrt150.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.3\tools\x64\ilc\Lib\Runtime\mrt100_app.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.3\tools\x64\ilc\Lib\Runtime\mrt150.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.3\tools\x86\ilc\mrt150.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.3\tools\x86\ilc\Lib\Runtime\mrt100_app.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.3\tools\x86\ilc\Lib\Runtime\mrt150.dll - MINIDUMP_AUXILIARY_PROVIDER
+C:/Program Files (X86)/Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\arm64\coreclr.dll - MINIDUMP_AUXILIARY_PROVIDER
