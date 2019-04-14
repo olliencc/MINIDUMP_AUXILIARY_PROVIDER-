@@ -78,6 +78,12 @@ C:/Program Files (X86)/Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microso
 C:/Program Files (X86)/Microsoft Visual Studio\2017\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\arm64\coreclr.dll - MINIDUMP_AUXILIARY_PROVIDER
 ```
 
+## Anomly Observations
+
+### You don't need to have registry entries
+
+You can have a `version.dll` next to the binary and it will be loaded when a mini dump is run. Thus a rather poor persistance technique.
+
 ## Further Reading
 * README: 
   * https://github.com/dotnet/coreclr/blob/master/src/dlls/mscoree/coreclr/README.md
